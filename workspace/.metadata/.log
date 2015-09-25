@@ -1,0 +1,78 @@
+!SESSION 2015-09-24 11:01:06.166 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr5ifx-20090821_41076 (JIT enabled, AOT enabled)
+J9VM - 20090821_041076_lHdSMr
+JIT  - r9_20090518_2017
+GC   - 20090417_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsastd.product.v75.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsastd.product.v75.ide
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2015-09-24 11:03:29.437
+!MESSAGE El Cliente RAM no está instalado. Instale el Cliente RAM para habilitar la funcionalidad de integración de RAM.
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:05:35.395
+!MESSAGE NLS unused message: EarlyLicenseCheck_product in: com.ibm.cic.licensing.common.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:05:35.396
+!MESSAGE NLS unused message: EarlyLicenseCheck_feature in: com.ibm.cic.licensing.common.ui.messages
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2015-09-24 11:11:22.525
+!MESSAGE Could not acquire INavigatorContentService from part ("Bienvenida").
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:15:05.661
+!MESSAGE NLS unused message: definitions_to_package_Transform_RootElementToPackagedElement_Usingservicereference_to_interface_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:15:05.662
+!MESSAGE NLS unused message: process_to_component_Transform_InterfaceRefToPackagedElement_Usinginterface_to_Interface_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:15:05.662
+!MESSAGE NLS unused message: servicereference_to_interface_Transform in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:15:05.662
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_Create_Rule in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:15:05.662
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_InterfaceRef$NameToName_Rule in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 11:15:05.662
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_InterfaceRef$OperationToOwnedOperation_Usingopertation_to_operation_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+!SESSION 2015-09-24 21:52:46.569 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=J2RE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr5ifx-20090821_41076 (JIT enabled, AOT enabled)
+J9VM - 20090821_041076_lHdSMr
+JIT  - r9_20090518_2017
+GC   - 20090417_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsastd.product.v75.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsastd.product.v75.ide
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-09-24 21:52:54.395
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 21:53:15.910
+!MESSAGE NLS unused message: EarlyLicenseCheck_product in: com.ibm.cic.licensing.common.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 21:53:15.910
+!MESSAGE NLS unused message: EarlyLicenseCheck_feature in: com.ibm.cic.licensing.common.ui.messages
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2015-09-24 21:53:16.551
+!MESSAGE El Cliente RAM no está instalado. Instale el Cliente RAM para habilitar la funcionalidad de integración de RAM.
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 22:07:12.208
+!MESSAGE NLS unused message: definitions_to_package_Transform_RootElementToPackagedElement_Usingservicereference_to_interface_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 22:07:12.208
+!MESSAGE NLS unused message: process_to_component_Transform_InterfaceRefToPackagedElement_Usinginterface_to_Interface_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 22:07:12.208
+!MESSAGE NLS unused message: servicereference_to_interface_Transform in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 22:07:12.208
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_Create_Rule in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 22:07:12.208
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_InterfaceRef$NameToName_Rule in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-09-24 22:07:12.208
+!MESSAGE NLS unused message: servicereference_to_interface_Transform_InterfaceRef$OperationToOwnedOperation_Usingopertation_to_operation_Extractor in: com.ibm.xtools.transform.bpmn.servicemodel.l10n.ServicemodelMessages
